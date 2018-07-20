@@ -16,7 +16,9 @@ import org.slf4j.LoggerFactory;
  *
  * @author tiendungmai
  */
-/*chinh sua tren may local */
+
+/*chinh sua hop nhat */
+
 public class Task {
     public static Logger logger =   LoggerFactory.getLogger(Task.class);
     public static void main(String[] args) {
