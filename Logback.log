@@ -1,4 +1,26 @@
-2018-07-20 10:43:50,127 [main] INFO   - 15698
-2018-07-20 10:44:02,518 [main] DEBUG  - 15743
-2018-07-20 10:44:14,839 [main] DEBUG  - 15677
-2018-07-20 10:44:27,346 [main] DEBUG  - 15659
+{"@timestamp":"2018-12-25T16:00:54.957+07:00","@version":1,"message":"12926","logger_name":"vn.vcc.adopt.logbackexam.Task","thread_name":"main","level":"INFO","level_value":20000}
+{"@timestamp":"2018-12-25T16:01:07.360+07:00","@version":1,"message":"12942","logger_name":"vn.vcc.adopt.logbackexam.Task","thread_name":"main","level":"DEBUG","level_value":10000}
+{"@timestamp":"2018-12-25T16:02:55.572+07:00","@version":1,"message":"12981","logger_name":"vn.vcc.adopt.logbackexam.Task","thread_name":"main","level":"INFO","level_value":20000}
+{"@timestamp":"2018-12-25T16:03:07.962+07:00","@version":1,"message":"13026","logger_name":"vn.vcc.adopt.logbackexam.Task","thread_name":"main","level":"DEBUG","level_value":10000}
+{"@timestamp":"2018-12-25T16:28:31.312+07:00","@version":1,"message":"13311","logger_name":"vn.vcc.adopt.logbackexam.Task","thread_name":"main","level":"INFO","level_value":20000}
+{"@timestamp":"2018-12-25T16:35:24.175+07:00","@version":1,"message":"13073","logger_name":"vn.vcc.adopt.logbackexam.Task","thread_name":"main","level":"INFO","level_value":20000}
+{"@timestamp":"2018-12-25T16:35:36.578+07:00","@version":1,"message":"13109","logger_name":"vn.vcc.adopt.logbackexam.Task","thread_name":"main","level":"DEBUG","level_value":10000}
+{"@timestamp":"2018-12-25T16:50:48.227+07:00","@version":1,"message":"12597","logger_name":"vn.vcc.adopt.logbackexam.Task","thread_name":"main","level":"INFO","level_value":20000}
+{"@timestamp":"2018-12-25T16:51:00.646+07:00","@version":1,"message":"12613","logger_name":"vn.vcc.adopt.logbackexam.Task","thread_name":"main","level":"DEBUG","level_value":10000}
+{"@timestamp":"2018-12-25T16:51:13.070+07:00","@version":1,"message":"12625","logger_name":"vn.vcc.adopt.logbackexam.Task","thread_name":"main","level":"DEBUG","level_value":10000}
+{"@timestamp":"2018-12-25T16:51:25.462+07:00","@version":1,"message":"12602","logger_name":"vn.vcc.adopt.logbackexam.Task","thread_name":"main","level":"DEBUG","level_value":10000}
+{"@timestamp":"2018-12-25T16:51:38.240+07:00","@version":1,"message":"12593","logger_name":"vn.vcc.adopt.logbackexam.Task","thread_name":"main","level":"DEBUG","level_value":10000}
+{"@timestamp":"2018-12-25T16:52:13.249+07:00","@version":1,"message":"12618","logger_name":"vn.vcc.adopt.logbackexam.Task","thread_name":"main","level":"INFO","level_value":20000}
+{"@timestamp":"2018-12-25T16:52:25.704+07:00","@version":1,"message":"12642","logger_name":"vn.vcc.adopt.logbackexam.Task","thread_name":"main","level":"DEBUG","level_value":10000}
+{"@timestamp":"2018-12-25T16:52:38.122+07:00","@version":1,"message":"12614","logger_name":"vn.vcc.adopt.logbackexam.Task","thread_name":"main","level":"DEBUG","level_value":10000}
+{"@timestamp":"2018-12-25T16:52:50.554+07:00","@version":1,"message":"12624","logger_name":"vn.vcc.adopt.logbackexam.Task","thread_name":"main","level":"DEBUG","level_value":10000}
+{"@timestamp":"2018-12-25T16:53:02.957+07:00","@version":1,"message":"12684","logger_name":"vn.vcc.adopt.logbackexam.Task","thread_name":"main","level":"DEBUG","level_value":10000}
+{"@timestamp":"2018-12-25T16:53:15.356+07:00","@version":1,"message":"12626","logger_name":"vn.vcc.adopt.logbackexam.Task","thread_name":"main","level":"DEBUG","level_value":10000}
+{"@timestamp":"2018-12-25T16:53:27.765+07:00","@version":1,"message":"12647","logger_name":"vn.vcc.adopt.logbackexam.Task","thread_name":"main","level":"DEBUG","level_value":10000}
+{"@timestamp":"2018-12-25T16:53:40.257+07:00","@version":1,"message":"12614","logger_name":"vn.vcc.adopt.logbackexam.Task","thread_name":"main","level":"DEBUG","level_value":10000}
+{"@timestamp":"2018-12-25T16:54:20.918+07:00","@version":1,"message":"12621","logger_name":"vn.vcc.adopt.logbackexam.Task","thread_name":"main","level":"INFO","level_value":20000}
+{"@timestamp":"2018-12-25T17:03:59.668+07:00","@version":1,"message":"11161","logger_name":"vn.vcc.adopt.logbackexam.Task","thread_name":"main","level":"INFO","level_value":20000}
+{"@timestamp":"2018-12-25T17:07:51.716+07:00","@version":1,"message":"10220","logger_name":"vn.vcc.adopt.logbackexam.Task","thread_name":"main","level":"INFO","level_value":20000}
+{"@timestamp":"2018-12-25T17:08:48.761+07:00","@version":1,"message":"10053","logger_name":"vn.vcc.adopt.logbackexam.Task","thread_name":"main","level":"INFO","level_value":20000}
+{"@timestamp":"2018-12-25T17:10:10.021+07:00","@version":1,"message":"9913","logger_name":"vn.vcc.adopt.logbackexam.Task","thread_name":"main","level":"INFO","level_value":20000}
+{"@timestamp":"2018-12-25T17:10:22.391+07:00","@version":1,"message":"9895","logger_name":"vn.vcc.adopt.logbackexam.Task","thread_name":"main","level":"DEBUG","level_value":10000}

@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mycompany.thuctaptask1;
+package vn.vcc.adopt.logbackexam;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -40,7 +40,7 @@ public class ThreadParse implements Callable<Integer>{
         while((current = br.readLine())!= null){
             result += current;
         }
-        System.out.println(result);
+        //System.out.println(result);
         JSONObject jSONObject = new JSONObject(result);
         user = jSONObject.getInt("user");
         
@@ -52,7 +52,6 @@ public class ThreadParse implements Callable<Integer>{
     
     public void run() {
         ThreadParse tp = new ThreadParse();
-        
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 }

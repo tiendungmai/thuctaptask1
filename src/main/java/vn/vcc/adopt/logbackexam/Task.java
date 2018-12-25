@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mycompany.thuctaptask1;
+package vn.vcc.adopt.logbackexam;
 
 import java.util.Timer;
 import java.util.logging.Level;
@@ -39,7 +39,7 @@ public class Task {
                 userpre= usernext;
             }
             else{
-                System.out.println("Khong ghi");
+                //System.out.println("Khong ghi");
                 cout++;
             }
             
